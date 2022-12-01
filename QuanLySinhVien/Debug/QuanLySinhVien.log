@@ -1,0 +1,4 @@
+﻿  SinhVien.cpp
+D:\MyDemoOU\IT\CTDL_GT1\QuanLySinhVien\QuanLySinhVien\SinhVien.h(361): warning C4715: 'Delete': not all control paths return a value
+D:\MyDemoOU\IT\CTDL_GT1\QuanLySinhVien\QuanLySinhVien\SinhVien.h(375): warning C4715: 'Add': not all control paths return a value
+  QuanLySinhVien.vcxproj -> D:\MyDemoOU\IT\CTDL_GT1\QuanLySinhVien\Debug\QuanLySinhVien.exe
